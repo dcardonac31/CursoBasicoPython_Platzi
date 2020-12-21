@@ -1,0 +1,19 @@
+------------------------------------
+Trabajando con cadenas de caracteres
+------------------------------------
+
+nombre = "david "
+nombre.upper()
+"DAVID "
+nombre.capitalize()
+"David "
+nombre.strip()
+"David"
+nombre.lower()
+"david"
+nombre = nombre.replace('a', 'e')
+"devid"
+nombre[0]
+"d"
+len(nombre)
+5

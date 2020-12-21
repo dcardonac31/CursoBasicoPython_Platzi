@@ -44,3 +44,9 @@ nombre[1::3]
 'rcc'
 nombre[::-1]
 'ocsicnarF'
+
+
+--------------------------
+Punto entrada programa python
+--------------------------
+if __name__ == '__main__':
